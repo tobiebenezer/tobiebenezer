@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Tobi Ebenezer - Senior Software Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Tobi Ebenezer - Software Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Tobi 👨‍💻</h1>
 
 <p align="center">
-  Senior Software Engineer building resilient backend architectures, production web applications, and applied AI systems.
+  Software Engineer building resilient backend architectures, production web applications, and applied AI systems.
 </p>
 
 <p align="center">
@@ -97,6 +97,6 @@
 - ⚙️ **Operating System**: Linux (Ubuntu)
 - 🛠️ **Primary Stack**: PHP (Laravel) • Python • TypeScript • Go
 - 🎯 **Engineering Focus**: High-throughput APIs, clean database architecture, Dockerized microservices, applied ML in production
-- 💬 **Collaboration**: Open to senior software engineering roles, high-impact backend contracts, and applied AI systems
+- 💬 **Collaboration**: Open to software engineering roles, impactful backend projects, and applied AI systems
 
 </details>
