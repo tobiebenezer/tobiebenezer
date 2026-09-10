@@ -15,12 +15,12 @@
   <a href="https://packagist.org/packages/tobiebenezer/php-ai">
     <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist" />
   </a>
-  <a href="mailto:tobi@mail.com">
+  <a href="mailto:tobisamuel70@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/tobiebenezer?tab=repositories">
+  <!-- <a href="https://github.com/tobiebenezer?tab=repositories">
     <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Worldwide-0078D6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
